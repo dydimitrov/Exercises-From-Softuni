@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\tableOfNumbers\bin\Debug\tableOfNumbers.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\tableOfNumbers\bin\Debug\tableOfNumbers.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\tableOfNumbers\bin\Debug\tableOfNumbers.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\tableOfNumbers\obj\Debug\tableOfNumbers.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\tableOfNumbers\obj\Debug\tableOfNumbers.pdb

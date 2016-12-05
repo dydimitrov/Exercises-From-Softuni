@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\numberPyramid\bin\Debug\numberPyramid.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\numberPyramid\obj\Debug\numberPyramid.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\numberPyramid\bin\Debug\numberPyramid.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\numberPyramid\bin\Debug\numberPyramid.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\numberPyramid\obj\Debug\numberPyramid.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\numberPyramid\obj\Debug\numberPyramid.pdb

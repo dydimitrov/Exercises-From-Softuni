@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\gratestCommonDeviser\bin\Debug\gratestCommonDeviser.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\gratestCommonDeviser\bin\Debug\gratestCommonDeviser.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\gratestCommonDeviser\bin\Debug\gratestCommonDeviser.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\gratestCommonDeviser\obj\Debug\gratestCommonDeviser.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\gratestCommonDeviser\obj\Debug\gratestCommonDeviser.pdb

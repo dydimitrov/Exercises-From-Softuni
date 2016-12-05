@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\sequence2kPlusOne\bin\Debug\sequence2kPlusOne.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\sequence2kPlusOne\bin\Debug\sequence2kPlusOne.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\sequence2kPlusOne\bin\Debug\sequence2kPlusOne.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\sequence2kPlusOne\obj\Debug\sequence2kPlusOne.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\sequence2kPlusOne\obj\Debug\sequence2kPlusOne.pdb

@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\isItPrimeOrNot\bin\Debug\isItPrimeOrNot.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\isItPrimeOrNot\bin\Debug\isItPrimeOrNot.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\isItPrimeOrNot\bin\Debug\isItPrimeOrNot.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\isItPrimeOrNot\obj\Debug\isItPrimeOrNot.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\isItPrimeOrNot\obj\Debug\isItPrimeOrNot.exe
+c:\users\snejka\documents\visual studio 2015\Projects\AdvancedLoops\isItPrimeOrNot\obj\Debug\isItPrimeOrNot.pdb
