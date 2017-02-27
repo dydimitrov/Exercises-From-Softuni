@@ -15,8 +15,8 @@ namespace powersOfTwoToN
 
             for (int i = 0; i <= n; i += 2)
             {
-                Console.WriteLine(num);
-                num = num * num;
+                //Console.WriteLine(num);
+                //num = num * num;
                 
             }
 
